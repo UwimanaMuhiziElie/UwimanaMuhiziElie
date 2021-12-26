@@ -2,11 +2,12 @@
 <h3 align="center">I'm from Rwanda,a Full-Stack developer with a passion for Cyber-security.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uwimanamuhizielie&label=Profile%20views&color=0e75b6&style=flat" alt="uwimanamuhizielie" /> </p>
+
 <p align="left"> <a href="https://twitter.com/@elieuwimana1" target="blank"><img src="https://img.shields.io/twitter/follow/@elieuwimana1?logo=twitter&style=for-the-badge" alt="@elieuwimana1" /></a> </p>
 
 - 🌱 I’m currently learning **Java(spring boot & kubernetes), GraphQl with react.js**
 
-- 👨‍💻 All of my projects are available at [still working on it.](still working on it.)
+- 👨‍💻 All of my projects are available at [I have a lot of unfinished projects in my local machine on several technologies but still working on them, I'm trying to finish them as well as pushing them here.](I have a lot of unfinished projects in my local machine on several technologies but still working on them, I'm trying to finish them as well as pushing them here.)
 
 - 💬 Ask me about **Javascript, Node.js,React,MongoDB,Python**
 
