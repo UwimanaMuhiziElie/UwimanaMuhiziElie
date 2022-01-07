@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Elie Uwimana</h1>
-<h3 align="center">I'm from Rwanda,a Full-Stack developer with a passion for Cyber-security.</h3>
+<h1 align="center">Hi 👋, I'm Elie Uwimana :no_mouth:</h1>
+<h3 align="center">I'm from Rwanda,a Full-Stack web developer with a passion for Cyber-security.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uwimanamuhizielie&label=Profile%20views&color=0e75b6&style=flat" alt="uwimanamuhizielie" /> </p>
 
