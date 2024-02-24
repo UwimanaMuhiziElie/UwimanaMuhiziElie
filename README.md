@@ -1,4 +1,4 @@
-<h1 align="center">Elie :no_mouth:</h1>
+<h1 align="center">:no_mouth:</h1>
 <h3 align="center">Passionate Security Researcher.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uwimanamuhizielie&label=Profile%20views&color=0e75b6&style=flat" alt="uwimanamuhizielie" /> </p>
