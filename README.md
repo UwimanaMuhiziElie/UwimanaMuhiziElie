@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/@elieuwimana1" target="blank"><img src="https://img.shields.io/twitter/follow/@elieuwimana1?logo=twitter&style=for-the-badge" alt="@elieuwimana1" /></a> </p>
 
-- 🌱 I’m currently learning **Java(spring boot & kubernetes), GraphQl with react.js**
-
-- 👨‍💻 All of my projects are available at [I have a lot of unfinished projects in my local machine on several technologies but still working on them, I'm trying to finish them as well as pushing them here.](I have a lot of unfinished projects in my local machine on several technologies but still working on them, I'm trying to finish them as well as pushing them here.)
 
 - 💬 Ask me about **Javascript, Node.js,React,MongoDB,Python**
 
