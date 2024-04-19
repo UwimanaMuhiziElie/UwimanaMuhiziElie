@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/@elieuwimana1" target="blank"><img src="https://img.shields.io/twitter/follow/@elieuwimana1?logo=twitter&style=for-the-badge" alt="@elieuwimana1" /></a> </p>
 
 
-- 💬 Ask me about **Javascript, Node.js,React,MongoDB,Python**
+- 💬 Ask me about **Penetration testing, red teaming, reverse engineering, mobile hacking, Hardware hacking, and firmware hacking**
 
 - 📫 How to reach me **umuhizielie@gmail.com**
 
